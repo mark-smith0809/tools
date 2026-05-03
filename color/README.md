@@ -2,4 +2,3 @@
 
 使用格式：
 ostream << Color::(color)
-1
