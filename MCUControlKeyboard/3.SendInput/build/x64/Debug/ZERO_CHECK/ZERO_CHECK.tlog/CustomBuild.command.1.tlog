@@ -1,0 +1,10 @@
+^E:\CODE\TOOLS\MCUCONTROLKEYBOARD\3.SENDINPUT\BUILD\CMAKEFILES\EE2DE1E7B97272A95169F2902404CF23\GENERATE.STAMP.RULE
+setlocal
+E:\software\CMake\bin\cmake.exe -SE:/code/tools/MCUControlKeyboard/3.SendInput -BE:/code/tools/MCUControlKeyboard/3.SendInput/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/code/tools/MCUControlKeyboard/3.SendInput/build/test_sendinput.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

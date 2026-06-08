@@ -1,0 +1,3 @@
+E:/code/tools/MCUControlKeyboard/3.SendInput/build/CMakeFiles/test_sendinput.dir
+E:/code/tools/MCUControlKeyboard/3.SendInput/build/CMakeFiles/ALL_BUILD.dir
+E:/code/tools/MCUControlKeyboard/3.SendInput/build/CMakeFiles/ZERO_CHECK.dir
