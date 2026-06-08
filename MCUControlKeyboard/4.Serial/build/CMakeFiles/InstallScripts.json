@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/code/tools/MCUControlKeyboard/4.Serial/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
